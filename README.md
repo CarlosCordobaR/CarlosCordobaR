@@ -1,6 +1,6 @@
 # About me
 
-**CarlosCordobaR/CarlosCordobaR** 
+**CarlosCordobaR** 
 
 - 🔭 I’m currently persuing an Economics PhD
 - 🌱 I’m currently learning about Netwoks Theory
