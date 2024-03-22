@@ -1,12 +1,9 @@
 # About me
 
-**CarlosCordobaR/CarlosCordobaR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**CarlosCordobaR/CarlosCordobaR** 
 
 - 🔭 I’m currently persuing an Economics PhD
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on Economic Netwoks
+- 🌱 I’m currently learning about Netwoks Theory
+- 👯 I’m looking to collaborate on Economic Netwoks & Python
 - 📫 How to reach me: carlos.cordoba@goumh.umh.es
-- ⚡ Fun fact: Runing :joy:
-
+- ⚡ Fun fact: Runing 
